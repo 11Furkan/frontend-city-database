@@ -1,0 +1,19 @@
+{
+  "name": "map-display",
+  "version": "1.0.0",
+  "description": "pull Lat/Lon Coords from our API and display the points on an OSM map + layer",
+  "source": "./index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "ol": "^8.1.0"
+  },
+  "main": "main.js"
+}
