@@ -16,6 +16,5 @@
   },
   "dependencies": {
     "ol": "^8.1.0"
-  },
-  "main": "main.js"
+  }
 }
