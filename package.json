@@ -1,7 +1,7 @@
 {
   "name": "map-display",
   "version": "1.0.0",
-  "description": "pull Lat/Lon Coords from our API and display the points on an OSM map + layer",
+  "description": "",
   "source": "./index.html",
   "scripts": {
     "start": "parcel",
@@ -11,10 +11,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "parcel": "^2.9.3"
-  },
   "dependencies": {
     "ol": "^8.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "sharp": "^0.31.3"
   }
 }
