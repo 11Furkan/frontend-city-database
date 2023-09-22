@@ -5,6 +5,11 @@ import { formatPopover, popup, element } from './popUpOver.js';
 
 let popover
 
+let eleMinSH
+let eleMaxSH
+let eleMinRD
+let eleMaxRD
+
 eleMinSH = document.getElementById('minSunHours')
 eleMaxSH = document.getElementById('maxSunHours')
 eleMinRD = document.getElementById('minRainDays')
